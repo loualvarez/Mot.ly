@@ -1,2 +1,2 @@
-# Motly
-A FREE online design toolkit.
+# Motly (WIP)
+An online design toolkit.
